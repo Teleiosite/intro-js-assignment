@@ -1,7 +1,7 @@
 // intro.js - Personal Introduction
 
-const name = "Abose";
-const age = 20;
+const name = "Abomide Oluwaseye";
+const age = 30;
 const favoriteLanguage = "JavaScript";
 
 console.log("Name:", name);
